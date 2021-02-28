@@ -1,0 +1,71 @@
+{
+  "commands": {
+    "command0": "None",
+    "command1": "None",
+    "command2": "None",
+    "command3": "None",
+    "command4": "None",
+    "command5": "None",
+    "command6": "None",
+    "command7": "None",
+    "command8": "None"
+  },
+  "update": {
+    "available": "Y/N",
+    "version": "2021",
+    "date": "8x xx xxxx",
+    "sysupdate": "Y/N"
+  },
+  "notification": {
+    "noti0": "None",
+    "noti1": "None",
+    "noti2": "None",
+    "noti3": "None",
+    "noti4": "None",
+    "noti5": "None",
+    "noti6": "None",
+    "noti7": "None",
+    "noti8": "None",
+    "noti9": "None",
+    "noti10": "None"
+  },
+  "extension": {
+    "ext0": "name",
+    "ext1": "name",
+    "ext2": "name",
+    "ext3": "name",
+    "ext4": "name",
+    "ext5": "name"
+  },
+  "extr": {
+    "donation": "None",
+    "support": "None",
+    "ann": "None"
+  },
+  "sysman": {
+    "sysman0": "None",
+    "sysman1": "None",
+    "sysman2": "None",
+    "sysman3": "None",
+    "sysman4": "None",
+    "sysman5": "None",
+    "sysman6": "None",
+    "sysman7": "None",
+    "sysman8": "None",
+    "sysman9": "None",
+    "sysman10": "None",
+    "sysman11": "None",
+    "sysman12": "None",
+    "sysman13": "None",
+    "sysman14": "None",
+    "sysman15": "None"
+  },
+  "scrupd": {
+    "scr0": "None",
+    "scr1": "None",
+    "scr2": "None",
+    "scr3": "None",
+    "scr4": "None",
+    "scr5": "None"
+  }
+}
